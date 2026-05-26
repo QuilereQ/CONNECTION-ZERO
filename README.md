@@ -16,7 +16,7 @@ Projekt zawiera:
 
 # Jak pobrać projekt
 
-## Opcja 1 — Pobranie ZIP
+## Pobranie ZIP
 1. Wejdź na stronę repozytorium GitHub.
 2. Kliknij zielony przycisk `Code`.
 3. Wybierz `Download ZIP`.
