@@ -114,7 +114,7 @@ class GRACZ:
               f"{txt_eff['GREEN']}y: {txt_eff['CYAN']}{round(self.pos_y, 2)}   "
               f"{txt_eff['GREEN']}alfa: {txt_eff['CYAN']}{-self.kat}   "
               f"{txt_eff['RED']}połączenie: {self.polaczenie}{txt_eff['RESET']} (połączenie zmniejsza sie o 1 co ruch)\n\n"
-              f"{txt_eff['GREEN']}POPRZEDNIE WARTOSCI:\nx: {self.old_x} y: {self.old_y}   połączenie: {self.old_pol}")
+              f"{txt_eff['GREEN']}POPRZEDNIE WARTOSCI:\nx: {self.old_x} y: {self.old_y}   połączenie: {self.old_pol}\n")
 
     def obrot(self, nowy_kat):
         self.kat -= nowy_kat
